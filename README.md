@@ -1,5 +1,3 @@
-first homework
-
 Desktop:
 
 ![antra_form_1](https://user-images.githubusercontent.com/57147619/176313933-5b19cad3-251b-4d1c-bcaa-2de447abfe90.PNG)
